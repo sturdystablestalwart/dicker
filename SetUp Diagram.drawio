@@ -1,1 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2021-11-02T12:53:48.131Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 YaBrowser/21.9.2.169 Yowser/2.5 Safari/537.36" version="15.6.5" etag="fow2i9bzjiiRZ61IQIhp" type="github"><diagram id="zBuldow8MKWv3D_S2thh">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-02T13:04:52.799Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 YaBrowser/21.9.2.169 Yowser/2.5 Safari/537.36" etag="45KOeWqct61ucS69sdVe" version="15.6.5" type="github">
+  <diagram id="zBuldow8MKWv3D_S2thh" name="Page-1">
+    <mxGraphModel dx="2844" dy="1530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hCV2RS2NhYm42QBeqAGg-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=default;strokeColor=default;labelBackgroundColor=default;" edge="1" parent="1" source="hCV2RS2NhYm42QBeqAGg-3" target="hCV2RS2NhYm42QBeqAGg-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hCV2RS2NhYm42QBeqAGg-3" value="Hyper-v&lt;br&gt;Win11&lt;br&gt;Client 2" style="fontColor=default;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=default;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.virtual_pc;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="421" y="872.5" width="115" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="hCV2RS2NhYm42QBeqAGg-4" value="Hyper-v&lt;br&gt;Ubunte-srv&lt;br&gt;Dicker-srv" style="fontColor=default;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=default;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.desktop_pc;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="391" y="770" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hCV2RS2NhYm42QBeqAGg-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.07;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=default;strokeColor=default;labelBackgroundColor=default;" edge="1" parent="1" source="hCV2RS2NhYm42QBeqAGg-5" target="hCV2RS2NhYm42QBeqAGg-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hCV2RS2NhYm42QBeqAGg-5" value="Win10&lt;br&gt;Client 1" style="fontColor=default;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=default;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="291" y="880" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hCV2RS2NhYm42QBeqAGg-8" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;align=right;" vertex="1" parent="1">
+          <mxGeometry x="392.5" y="160" width="365" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="hCV2RS2NhYm42QBeqAGg-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1" source="hCV2RS2NhYm42QBeqAGg-9" target="hCV2RS2NhYm42QBeqAGg-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hCV2RS2NhYm42QBeqAGg-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1" source="hCV2RS2NhYm42QBeqAGg-9" target="hCV2RS2NhYm42QBeqAGg-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hCV2RS2NhYm42QBeqAGg-9" value="gRPC" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="337.5" y="215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hCV2RS2NhYm42QBeqAGg-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1" source="hCV2RS2NhYm42QBeqAGg-10" target="hCV2RS2NhYm42QBeqAGg-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hCV2RS2NhYm42QBeqAGg-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1" source="hCV2RS2NhYm42QBeqAGg-10" target="hCV2RS2NhYm42QBeqAGg-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hCV2RS2NhYm42QBeqAGg-10" value="BL" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="481.5" y="215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hCV2RS2NhYm42QBeqAGg-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1" source="hCV2RS2NhYm42QBeqAGg-11" target="hCV2RS2NhYm42QBeqAGg-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hCV2RS2NhYm42QBeqAGg-11" value="BD" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="627.5" y="215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hCV2RS2NhYm42QBeqAGg-17" value="Hyper-v&lt;br&gt;Win11&lt;br&gt;Client 2" style="fontColor=default;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=default;strokeColor=default;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.virtual_pc;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="100" y="270" width="115" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="hCV2RS2NhYm42QBeqAGg-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1" source="hCV2RS2NhYm42QBeqAGg-18" target="hCV2RS2NhYm42QBeqAGg-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="277.5" y="195" />
+              <mxPoint x="277.5" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hCV2RS2NhYm42QBeqAGg-18" value="Win10&lt;br&gt;Client 1" style="fontColor=default;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=default;strokeColor=default;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="107.5" y="160" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hCV2RS2NhYm42QBeqAGg-24" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="7" y="583" as="sourcePoint" />
+            <mxPoint x="820" y="583" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
